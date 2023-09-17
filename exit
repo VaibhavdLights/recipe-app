@@ -1,0 +1,53 @@
+[33mcommit c306d15e77f44bf31ac8b57d88ed1f7c225c916a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Sun Sep 17 17:08:47 2023 +0530
+
+    Added drf-docs & user app
+
+[33mcommit 1489d1da94a60da402168cda72e7b89fb9f2fc7b[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Sun Sep 17 01:38:04 2023 +0530
+
+    Updated Django admin
+
+[33mcommit 02151db44ae8b383a1ad79fea675674dcfb6a276[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Sat Sep 16 01:48:47 2023 +0530
+
+    Created user models with tests
+
+[33mcommit af3cd8fa5b40271a6cf906330fd1f6c40ce62be1[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Fri Sep 15 18:47:17 2023 +0530
+
+    Configured docker-compose and checks for wait_for_db
+
+[33mcommit 38e502820191ef95611a017008adf2a1cb4f3fb4[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Fri Sep 15 18:28:33 2023 +0530
+
+    Corrected Tests & Lints
+
+[33mcommit 30cb8a2868e9f6273e8fd6b7c57eacae14a303c0[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Fri Sep 15 13:59:01 2023 +0530
+
+    Added unit tests to core app
+
+[33mcommit a72c4c7cc0596823af6f0b1372e423b8782f3ba6[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Fri Sep 15 13:34:17 2023 +0530
+
+    Added postgresql and connected django to db
+
+[33mcommit 5fd94dfa1747b59faa426f5a8df9fe8acb2cf156[m
+Author: VaibhavdLights <vaibhavprajapati0101@gmail.com>
+Date:   Thu Sep 14 22:19:23 2023 +0530
+
+    Added GitHub Actions and Dockerfiles
+
+[33mcommit ced236c01fcc6383f21edc162dc27c4ad35ef632[m
+Author: Vaibhav Prajapati <96418839+VaibhavdLights@users.noreply.github.com>
+Date:   Thu Sep 14 11:42:49 2023 +0530
+
+    Initial commit
